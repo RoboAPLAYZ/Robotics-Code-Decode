@@ -1,6 +1,8 @@
 ## NOTICE
 
 This repository contains the public FTC SDK for the DECODE (2025-2026) competition season.
+This repository is for the Galactic Gears #14791 FTC team and it will be updated until the
+end of the season when it will be archived.
 
 ## Welcome!
 This GitHub repository contains the source code that is used to build an Android app to control a *FIRST* Tech Challenge competition robot.  To use this SDK, download/clone the entire project to your local computer.
@@ -59,6 +61,10 @@ The readme.md file located in the [/TeamCode/src/main/java/org/firstinspires/ftc
 
 # Release Information
 
+## Version 11.1
+### Enhancements
+* Adds the Gobilda starting code to the robot
+* First official update by our team :)
 ## Version 11.0 (20250827-105138)
 
 ### Enhancements
